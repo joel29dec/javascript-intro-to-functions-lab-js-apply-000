@@ -2,6 +2,6 @@ shout = (string) => {
   return string.toUpperCase()
 }
 
-whisper = (string) => {
+function(string) {
   return string.toLowerCase()
 }
